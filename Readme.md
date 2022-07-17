@@ -1,5 +1,5 @@
 # <u>"**Practical MLOps**" Book, by Noah Gift and Alfredo Deza:</u>
-# Book Exercises, Tests and Practise solved by Enric Domingo while reading the book
+# Book Exercises, Tests and Practice solved by Enric Domingo while reading the book
 
 ## 1. Introduction to MLOps
 - Rise of the Machine Learning Engineer and MLOps
