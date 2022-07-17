@@ -8,7 +8,7 @@
 - An Mlops Hierarchy of Needs
 
 ### **Exercises:**
-- [ ] Create a new GitHub repository with necessary **Python** scaffolding using **Makefile**, linting, and testing. Then, perform additional steps such as code formatting in your Makefile.
+- [x] Create a new GitHub repository with necessary **Python** scaffolding using **Makefile**, linting, and testing. Then, perform additional steps such as code formatting in your Makefile.
 - [ ] Using **GitHub Actions**, test a GitHub project with two or more Python versions.
 - [ ] Using a **cloud native** build server (AWS Code Build, GCP Cloud Build, or Azure DevOps Pipelines), perform **continuous integrations** for your project.
 - [ ] Containerize a GitHub project by intergating a **Dockerfile** and automatically registering new conainers to a **Container Registry**.
