@@ -1,4 +1,4 @@
-name: GCP Python 3.10.5
+name: Test Multiple Python Versions
 on: [push]
 jobs:
   build:
