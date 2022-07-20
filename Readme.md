@@ -5,13 +5,13 @@
 - Rise of the Machine Learning Engineer and MLOps
 - What is MLOps?
 - DevOps and MLOps
-- An Mlops Hierarchy of Needs
+- An MLOps Hierarchy of Needs
 
 ### **Exercises:**
 - [x] Create a new GitHub repository with necessary **Python** scaffolding using **Makefile**, linting, and testing. Then, perform additional steps such as code formatting in your Makefile.
-- [ ] Using **GitHub Actions**, test a GitHub project with two or more Python versions.
+- [x] Using **GitHub Actions**, test a GitHub project with two or more Python versions.
 - [ ] Using a **cloud native** build server (AWS Code Build, GCP Cloud Build, or Azure DevOps Pipelines), perform **continuous integrations** for your project.
-- [ ] Containerize a GitHub project by intergating a **Dockerfile** and automatically registering new conainers to a **Container Registry**.
+- [ ] Containerize a GitHub project by integrating a **Dockerfile** and automatically registering new conainers to a **Container Registry**.
 - [ ] Create a simple **load test** for your application using a load test framework such as [locust](https://locust.io) or [loader](https://loader.io) and automatically run this test when you push changes to a staging branch.
 
 ---
