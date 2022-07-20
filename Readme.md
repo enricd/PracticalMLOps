@@ -1,3 +1,6 @@
+[![GCP Python 3.9.13](https://github.com/enricd/PracticalMLOps/actions/workflows/gcp_python_39.yml/badge.svg)](https://github.com/enricd/PracticalMLOps/actions/workflows/gcp_python_39.yml)
+[![GCP Python 3.10.5](https://github.com/enricd/PracticalMLOps/actions/workflows/gcp_python_310.yml/badge.svg)](https://github.com/enricd/PracticalMLOps/actions/workflows/gcp_python_310.yml)
+
 # <u>"**Practical MLOps**" Book, by Noah Gift and Alfredo Deza:</u>
 # Book Exercises, Tests and Practice solved by Enric Domingo while reading the book
 
